@@ -1,3 +1,3 @@
 # Proof
 
-## Documentation is work is progress 🥴
+## Documentation is work in progress 🥴
